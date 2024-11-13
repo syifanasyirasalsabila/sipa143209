@@ -1,0 +1,19 @@
+body{
+    background-color:blueviolet;
+}
+.nilai{
+    padding: 1em;
+        margin: 2em auto;
+        border: 2em;
+        width: 17em;
+        background-color: aqua;
+        border-radius: 25px;
+}
+.hasil{
+    padding: 1em;
+        margin:  auto;
+        border: 2em;
+        width: 17em;
+        background-color: aqua;
+        border-radius: 25px;
+}

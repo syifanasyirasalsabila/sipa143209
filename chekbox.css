@@ -1,0 +1,19 @@
+body{
+    background-color: blueviolet;
+}
+.menu{
+    padding: 1em;
+         margin: auto; 
+         border: 2em;
+         width: 30em;
+         background-color: aqua;
+         border-radius: 25px;
+ }
+ .hasil{
+    padding: 1em;
+         margin: auto; 
+         border: 2em;
+         width: 30em;
+         background-color: aqua;
+         border-radius: 25px;
+ }

@@ -1,0 +1,11 @@
+body{
+    background-color:blueviolet;
+}
+.login{
+        padding: 1em;
+        margin: 2em auto;
+        border: 2em;
+        width: 17em;
+        background-color: aqua;
+        border-radius: 25px;
+}
